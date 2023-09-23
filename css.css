@@ -1,0 +1,12 @@
+  @media (min-width: 900px) 
+    {
+  .testowanie{
+    background-color: red;
+  }
+  }
+    @media (max-width: 900px) 
+    {
+      .testowanie{
+          background-color: yellow;
+      }
+  }
