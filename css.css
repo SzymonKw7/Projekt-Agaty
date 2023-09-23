@@ -1,30 +1,33 @@
-  @media (min-width: 900px) 
-    {
-  .tabela_glowna{
-    border: 2px solid red;
-    width: 100%!important; 
-    height: 330px!important;
-    padding: 50px;
-    color: white;
-  }
-  .tabla_glowna_pierwsza_kom
-  {
-    float: right;
-    display: block; 
-    width: 50%; 
-    height:100%!important;
-  }
-  .zamow_produkt_button
-  {
-    width: 120px!important;
-  }
-  .tabla_glowna_druga_kom
-  {
-    width: 50%;
-    height:100%!important;
-    float:left;
-    display: block;
-  }
+
+      .tabela_glowna
+      {
+        border: 2px solid red;
+        width: 100%!important; 
+        height: 330px!important;
+        padding: 50px;
+        color: white;
+      }
+      .tabla_glowna_pierwsza_kom
+      {
+        float: right;
+        display: block; 
+        width: 50%; 
+        height:100%!important;
+      }
+      .zamow_produkt_button
+      {
+        width: 120px!important;
+      }
+      .tabla_glowna_druga_kom
+      {
+        width: 50%;
+        height:100%!important;
+        float:left;
+        display: block;
+      }
+@media (min-width: 900px) 
+      {
+      
   }
     @media (max-width: 900px) 
     {
