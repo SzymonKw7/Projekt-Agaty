@@ -28,22 +28,25 @@
         display: block;
         padding-top:20px;
       }
+      @media (max-width: 1200px)
+      {
+        .tabela_glowna_pierwsza_kom
+        {
+          float:none;
+          width:100%;
+          text-align: center;
+        }
+        .tabela_glowna_druga_kom
+        {
+          float:none;
+          width:100%;
+        }
+      }
 @media (min-width: 900px) 
       {
       
   }
-  @media (max-width: 1200px)
-  {
-    .tabela_glowna_pierwsza_kom
-    {
-      width:100%;
-      margin-left:10px;
-    }
-    .tabela_glowna_druga_kom
-    {
-      float:none;
-    }
-  }
+
   @media (max-width: 900px) 
   {
 
