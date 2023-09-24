@@ -32,15 +32,20 @@
       {
       
   }
-    
+  @media (max-width: 1200px)
+  {
+    .tabela_glowna_pierwsza_kom
+    {
+      width:100%;
+      margin-left:10px;
+    }
+    .tabela_glowna_druga_kom
+    {
+      float:none;
+    }
+  }
   @media (max-width: 900px) 
   {
-      .tabela_glowna_pierwsza_kom
-      {
-        float:none;
-      }
-      .tabela_glowna_druga_kom
-      {
-        float:none;
-      }
+
+
   }
