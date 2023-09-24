@@ -1,4 +1,5 @@
 
+      
       .tabela_glowna
       {
         border: 2px solid red;
@@ -7,6 +8,8 @@
         height: 330px!important;
         padding: 50px;
         color: white;
+        font-family: 'Lato', sans-serif;
+        font-weight: 400;
       }
       .tabela_glowna_pierwsza_kom
       {
@@ -15,6 +18,7 @@
         width: 50%; 
         height:100%!important;
         padding-top: 20px;
+
       }
       .zamow_produkt_button
       {
@@ -27,6 +31,7 @@
         float:left;
         display: block;
         padding-top:20px;
+        
       }
       @media (max-width: 1200px)
       {
@@ -39,6 +44,7 @@
         .tabela_glowna_druga_kom
         {
           float:none;
+          margin-left: 50%;
           width:100%;
         }
       }
