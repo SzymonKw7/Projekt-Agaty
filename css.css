@@ -33,6 +33,11 @@
         padding-top:20px;
         
       }
+      .info_o_prowadzacym_i_czasie
+      {
+        float: left;
+        padding-left: 10px;
+      }
       @media (max-width: 1200px)
       {
         .tabela_glowna_pierwsza_kom
@@ -44,8 +49,13 @@
         .tabela_glowna_druga_kom
         {
           float:none;
-          margin-left: 50%;
           width:100%;
+        }
+        .info_o_prowadzacym_i_czasie
+        {
+          padding-left: none;
+          margin-left: 50%;
+          transform: translate(-50%, 0%);
         }
       }
 @media (min-width: 900px) 
