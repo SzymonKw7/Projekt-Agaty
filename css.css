@@ -42,6 +42,11 @@
         padding-left: 10px;
         font-weight: 800;
       }
+      .mocne_slowa_pod_tytulem
+      {
+        font-size: 19px;
+        margin-right: 20%;
+      }
       @media (max-width: 1200px)
       {
         .tabela_glowna_pierwsza_kom
@@ -63,7 +68,7 @@
         }
         .mocne_slowa_pod_tytulem
         {
-          font-size: 19px;
+          margin-right: 0;
         }
       }
 @media (min-width: 900px) 
