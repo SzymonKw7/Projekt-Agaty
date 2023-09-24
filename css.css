@@ -2,12 +2,9 @@
       
       .tabela_glowna
       {
-        border: 2px solid red;
-        background-color:black;
         width: 100%!important; 
         height: 330px!important;
         padding: 50px;
-        color: white;
         font-family: 'Lato', sans-serif;
         font-weight: 400;
       }
@@ -22,7 +19,13 @@
       }
       .zamow_produkt_button
       {
-        width: 120px!important;
+        width: 140px!important;
+        background-color: rgba(176,132,255,255);
+        color: white;
+        border: none;
+        border-radius: 3px;
+        height: 40px;
+        font-size: 15px
       }
       .tabela_glowna_druga_kom
       {
@@ -37,6 +40,7 @@
       {
         float: left;
         padding-left: 10px;
+        font-weight: 800;
       }
       @media (max-width: 1200px)
       {
@@ -56,6 +60,10 @@
           padding-left: none;
           margin-left: 50%;
           transform: translate(-50%, 0%);
+        }
+        .mocne_slowa_pod_tytulem
+        {
+          font-size: 19px;
         }
       }
 @media (min-width: 900px) 
