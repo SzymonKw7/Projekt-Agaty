@@ -46,6 +46,12 @@
         font-size: 19px;
         margin-right: 20%;
       }
+      .zdjecie_do_kursu
+      {
+        width: 500px; 
+        display: block;
+        margin: auto;
+      }
       @media (max-width: 1200px)
       {
         .tabela_glowna_pierwsza_kom
@@ -70,6 +76,10 @@
           margin-right: 200px;
           margin-left: 200px;
         }
+        .zdjecie_do_kursu
+        {
+          width: 400px;
+        }
       }
 @media (min-width: 900px) 
       {
@@ -82,5 +92,8 @@
     {
       margin-left: 0px;
       margin-right: 0px;  
+    }
+    .zdjecie_do_kursu
+    {
     }
   }
