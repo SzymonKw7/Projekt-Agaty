@@ -39,7 +39,6 @@
       .info_o_prowadzacym_i_czasie
       {
         float: left;
-        padding-left: 10px;
         font-weight: 800;
       }
       .mocne_slowa_pod_tytulem
@@ -68,7 +67,8 @@
         }
         .mocne_slowa_pod_tytulem
         {
-          margin-right: 0;
+          margin-right: 200px;
+          margin-left: 200px;
         }
       }
 @media (min-width: 900px) 
@@ -78,6 +78,9 @@
 
   @media (max-width: 900px) 
   {
-
-
+    .mocne_slowa_pod_tytulem
+    {
+      margin-left: 0px;
+      margin-right: 0px;  
+    }
   }
