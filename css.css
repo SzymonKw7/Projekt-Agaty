@@ -52,6 +52,20 @@
         display: block;
         margin: auto;
       }
+      .tabela_czterech_wskaznikow
+      {
+        position: relative;
+        left: 50%;
+        top:50%;
+        transform: translate(-50%, -50%);
+        height: 200px;
+        font-size: 30px;
+        color: rgba(176,132,255,255);
+      }
+      .komorka_czterech_wskaznikow
+      {
+        padding: 100px;
+      }
       @media (max-width: 1200px)
       {
         .tabela_glowna_pierwsza_kom
@@ -79,6 +93,12 @@
         .zdjecie_do_kursu
         {
           width: 400px;
+        }
+        .komorka_czterech_wskaznikow
+        {
+          display: inline-block;
+          width: 50%;
+          padding: 0px;
         }
       }
 @media (min-width: 900px) 
