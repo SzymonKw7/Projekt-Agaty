@@ -81,6 +81,15 @@
         height: auto;
         margin: 0 auto;
     }
+
+
+    @media (max-width: 1600px)
+    {
+        .zdjecie_do_kursu
+        {
+          width:500px;
+        }
+    }
       @media (max-width: 1200px)
       {
 
