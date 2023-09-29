@@ -65,6 +65,7 @@
         height: 200px;
         font-size: 30px;
         color: rgba(176,132,255,255);
+        border-collapse: collapse; /* To remove spacing between cells */
       }
       /* .komorka_czterech_wskaznikow
       {
@@ -80,6 +81,10 @@
         width: 70px;
         height: auto;
         margin: 0 auto;
+    }
+    .komorka_czterech_wskaznikow p
+    {
+      margin-top: auto;
     }
 
 
