@@ -81,7 +81,7 @@
       {
         padding-top: 0px;
       }
-      .komorka_czterech_wskaznikow img:not(:first-child){
+      .komorka_czterech_wskaznikow img{
         width: 70px;
         height: auto;
         margin: 0 auto;
