@@ -157,4 +157,14 @@
     {
       margin: auto;
     }
+
+    /*Tabela korzyści*/
+    .komorka_czterech_wskaznikow img
+    {
+      width: 30px;
+    }
+    .komorka_czterech_wskaznikow p
+    {
+      font-size: 15px;
+    }
   }
