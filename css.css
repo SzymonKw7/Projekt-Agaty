@@ -63,8 +63,6 @@
         top:50%;
         transform: translate(-50%, -50%);
         height: 200px;
-        font-size: 30px;
-        color: rgba(176,132,255,255);
         border-collapse: collapse; /* To remove spacing between cells */
       }
       /* .komorka_czterech_wskaznikow
@@ -76,15 +74,24 @@
         min-width: 200px;
         margin: 0 auto;
         text-align: center;
+        padding-top: 24.15px;
+        padding-right: 50px;
       }
-      .komorka_czterech_wskaznikow img{
+      .komorka_czterech_wskaznikow:first-child
+      {
+        padding-top: 0px;
+      }
+      .komorka_czterech_wskaznikow img:not(:first-child){
         width: 70px;
         height: auto;
         margin: 0 auto;
     }
     .komorka_czterech_wskaznikow p
     {
+      font-size: 30px;
+      color: rgba(176,132,255,255);
       margin-top: auto;
+      border-bottom: 2px solid;
     }
 
 
