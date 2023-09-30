@@ -100,9 +100,15 @@
     {
       font-size:10px;
     }
-
+    @media (max-width: 1800px)
+    {
+      .zdjecie_do_kursu
+      {
+        width: 600px;
+      }
+    }
     
-    @media (max-width: 1700px)
+    @media (max-width: 1600px)
     {
         .zdjecie_do_kursu
         {
@@ -170,6 +176,10 @@
     .box_z_tabela_czterech_wskaznikow
     {
       height:500px;
+    }
+    .tabela_czterech_wskaznikow
+    {
+      left:55%;
     }
     .komorka_czterech_wskaznikow 
     {
