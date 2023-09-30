@@ -14,7 +14,7 @@
         display: block; 
         width: 50%; 
         height:100%!important;
-        padding-top: 20px;
+        padding-top: 25px;
 
       }
       .zamow_produkt_button
@@ -88,7 +88,7 @@
     }
 
 
-    @media (max-width: 1600px)
+    @media (max-width: 1700px)
     {
         .zdjecie_do_kursu
         {
@@ -144,5 +144,6 @@
     }
     .zdjecie_do_kursu
     {
+      margin: auto;
     }
   }
