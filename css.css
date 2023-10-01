@@ -88,7 +88,7 @@
       }
       .zdjecie_do_kursu
       {
-        width: 800px; 
+        width: 550px; 
         display: block;
         margin: auto;
         filter: drop-shadow(rgb(176, 132, 255) 0.4rem 0.4rem 0.7rem);
@@ -151,7 +151,7 @@
     {
       .zdjecie_do_kursu
       {
-        width: 600px;
+        width: 500px;
       }
     }
     
@@ -159,7 +159,7 @@
     {
         .zdjecie_do_kursu
         {
-          width:500px;
+          width:450px;
         }
     }
       @media (max-width: 1200px)
@@ -189,7 +189,7 @@
           left:50%;
           transform: translate(-50%, 0%);
         }
-        .tytul_mocnego_kursu
+        .tytul_mocnego_kursu 
         {
           margin-top: 100px;
         }
@@ -200,7 +200,7 @@
         }
         .zdjecie_do_kursu
         {
-          width: 400px;
+          width: 300px;
         }
         
         /*Tabela korzyści*/
