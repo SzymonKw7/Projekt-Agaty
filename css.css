@@ -79,7 +79,7 @@
       .tytul_mocnego_kursu
       {
           font-size: 20px;
-          margin-top: -20px;
+          margin-top: 10px;
       }
       .mocne_slowa_pod_tytulem
       {
@@ -189,10 +189,7 @@
           left:50%;
           transform: translate(-50%, 0%);
         }
-        .tytul_mocnego_kursu
-        {
-          margin-top: 0px;
-        }
+
         .mocne_slowa_pod_tytulem
         {
           margin-right: 200px;
