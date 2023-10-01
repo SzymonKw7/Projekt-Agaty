@@ -139,16 +139,17 @@
     }
     .poziom_ogien_lvl2
     {
+        position:absolute;
+        top: -25px;
+        left:55px;
+    }
+    .poziom_ogien_lvl3
+    {
       position:absolute;
       top: -30px;
       left: 160px;
     }
-    .poziom_ogien_lvl3
-    {
-        position:absolute;
-        left:55px;
-        top: -25px;
-    }
+
 
     .komorka_czterech_wskaznikow p
     {
