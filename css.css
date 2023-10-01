@@ -133,6 +133,22 @@
         height: auto;
         margin: 0 auto;
     }
+    .poziom_ogien_lvl1
+    {
+      position: relative;
+    }
+    .poziom_ogien_lvl2
+    {
+      position:absolute;
+      top: -30px;
+      left: 160px;
+    }
+    .poziom_ogien_lvl3
+    {
+        left:55px;
+        top: -25px;
+    }
+
     .komorka_czterech_wskaznikow p
     {
       color: rgba(176,132,255,255);
