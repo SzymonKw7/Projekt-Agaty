@@ -145,6 +145,7 @@
     }
     .poziom_ogien_lvl3
     {
+        position:absolute;
         left:55px;
         top: -25px;
     }
