@@ -69,10 +69,21 @@
       {
         float: left;
         font-weight: 800;
+        font-size: 25px;
+      }
+      .info_o_prowadzacym_i_czasie img
+      {
+        width: 30px;
+      }
+
+      .tytul_mocnego_kursu
+      {
+          font-size: 20px;
+          margin-top: -20px;
       }
       .mocne_slowa_pod_tytulem
       {
-        font-size: 19px;
+        font-size: 22px;
         margin-right: 20%;
       }
       .zdjecie_do_kursu
@@ -82,6 +93,7 @@
         margin: auto;
         filter: drop-shadow(rgb(176, 132, 255) 0.4rem 0.4rem 0.7rem);
         border-radius: 15px;
+        transition: 0.4s;
       }
 
       /*Tabela korzyści*/
@@ -110,6 +122,7 @@
         padding-top: 37.95px;
         padding-left: 50px;
         padding-right: 50px;
+        transition: 0.4s
       }
       .komorka_czterech_wskaznikow:first-child
       {
@@ -175,6 +188,10 @@
           position: relative;
           left:50%;
           transform: translate(-50%, 0%);
+        }
+        .tytul_mocnego_kursu
+        {
+          margin-top: 0px;
         }
         .mocne_slowa_pod_tytulem
         {
