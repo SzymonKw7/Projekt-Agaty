@@ -147,13 +147,6 @@
       display:block;
       height:30px;
     }
-    @media (max-width: 1800px)
-    {
-      .zdjecie_do_kursu
-      {
-        width: 500px;
-      }
-    }
     
     @media (max-width: 1600px)
     {
