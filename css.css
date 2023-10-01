@@ -189,7 +189,10 @@
           left:50%;
           transform: translate(-50%, 0%);
         }
-
+        .tytul_mocnego_kursu
+        {
+          margin-top: 100px;
+        }
         .mocne_slowa_pod_tytulem
         {
           margin-right: 200px;
