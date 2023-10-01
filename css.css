@@ -79,7 +79,6 @@
         margin: 0 auto;
         text-align: center;
         padding-top: 24.15px;
-        padding-right: 50px;
       }
       .komorka_czterech_wskaznikow:first-child
       {
@@ -156,6 +155,8 @@
       .komorka_czterech_wskaznikow p
       {
         font-size: 30px;
+        margin-right: 20px;
+        margin-left: 20px;
       }
   }
 
@@ -177,20 +178,17 @@
     {
       height:500px;
     }
-    .tabela_czterech_wskaznikow
-    {
-      left:55%;
-    }
+
     .komorka_czterech_wskaznikow 
     {
       display:block;
     }
     .komorka_czterech_wskaznikow img
     {
-      width: 30px;
+      width: 50px;
     }
     .komorka_czterech_wskaznikow p
     {
-      font-size: 15px;
+      font-size: 20px;
     }
   }
