@@ -226,21 +226,43 @@
         {
           padding-left: 30px;
           padding-right: 30px;
-          padding-top: 24.16px;
-        }
-        .komorka_czterech_wskaznikow:first-child
-        {
-          padding-top: 0px;
         }
         .komorka_czterech_wskaznikow p
         {
-          font-size: 25px;
+          font-size: 20px;
+          margin-left: 20px;
+          margin-right: 20px;
         }
         .komorka_czterech_wskaznikow img
         {
           width: 70px;
         }
-
+        .komorka_czterech_wskaznikow span
+        {
+          font-size: 15px;
+        }
+        .poziom_ogien
+        {
+          height: 70px;
+        }
+        .poziom_ogien_lvl1
+        {
+          position: absolute;
+          left: 95px;
+          top:40px;
+        }
+        .poziom_ogien_lvl2
+        {
+          position: absolute;
+          left: 78px;
+          top: 27px;
+        }
+        .poziom_ogien_lvl3
+        {
+          position: absolute;
+          left: 111px;
+          top: 27px;
+        }
       }
 @media (min-width: 901px) 
       {
