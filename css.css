@@ -97,6 +97,11 @@
         transition: 0.4s;
       }
 
+      .zdjecie_do_kursu:hover
+      {
+        
+      }
+
       /*Tabela korzyści*/
       .box_z_tabela_czterech_wskaznikow
       {
@@ -322,3 +327,4 @@
       font-size: 15px;
     }
   }
+
