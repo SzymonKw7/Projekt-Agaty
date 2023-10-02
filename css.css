@@ -125,7 +125,11 @@
         padding-right: 50px;
         transition: 0.4s
       }
-      .komorka_czterech_wskaznikow img{
+      .poziom_ogien img
+      {
+        width:70px;
+      }
+      .komorka_czterech_wskaznikow > img{
         width: 110px;
         height: auto;
         margin: 0 auto;
@@ -133,10 +137,6 @@
     .poziom_ogien
     {
       height: 110px;
-    }
-    .poziom_ogien img
-    {
-      width:70px;
     }
     .poziom_ogien_lvl1
     {
