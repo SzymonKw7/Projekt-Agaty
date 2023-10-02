@@ -233,7 +233,7 @@
           margin-left: 20px;
           margin-right: 20px;
         }
-        .komorka_czterech_wskaznikow img
+        .komorka_czterech_wskaznikow > img
         {
           width: 70px;
         }
@@ -244,6 +244,10 @@
         .poziom_ogien
         {
           height: 70px;
+        }
+        .poziom_ogien img
+        {
+          width: 40px;
         }
         .poziom_ogien_lvl1
         {
