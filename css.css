@@ -323,7 +323,7 @@
     /*Tabela korzyści*/
     .box_z_tabela_czterech_wskaznikow
     {
-      height:700px;
+      height:750px;
     }
     .tabela_czterech_wskaznikow
     {
@@ -342,7 +342,7 @@
     .komorka_czterech_wskaznikow p
     {
       font-size: 20px;
-      width: 100px;
+      width: 130px;
       margin: auto;
       margin-bottom: 10px;;
     }
