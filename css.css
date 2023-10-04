@@ -88,7 +88,7 @@
       }
       .mocne_slowa_pod_tytulem
       {
-        font-size: 22px;
+        font-size: 21px;
         margin-right: 20%;
         font-family: calisto mt;
       }
@@ -183,6 +183,28 @@
         .zdjecie_do_kursu
         {
           width:450px;
+        }
+        .info_o_prowadzacym_i_czasie
+        {
+          font-size: 12px;
+        }
+        .info_o_prowadzacym_i_czasie img
+        {
+          width: 20px;
+        }
+        .tytul_mocnego_kursu
+        {
+          width: 13px;
+        }
+        .mocne_slowa_pod_tytulem
+        {
+          font-size: 18px;
+        }
+        .zamow_produkt_button
+        {
+          width: 130px;
+          height: 40px;
+          font-size: 14px;
         }
     }
       @media (max-width: 1200px)
