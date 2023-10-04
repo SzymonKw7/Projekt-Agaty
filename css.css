@@ -291,16 +291,7 @@
           top: 27px;
         }
       }
-@media (min-width: 901px) 
-      {
-      /*Tabela korzyści*/
-      .komorka_czterech_wskaznikow p
-      {
-        margin-right: 16px;
-        margin-left: 16px;
-      }
-  }
-
+      
   @media (max-width: 900px) 
   {
     .info_o_prowadzacym_i_czasie
