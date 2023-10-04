@@ -12,7 +12,7 @@
       .tabela_glowna
       {
         width: 100%!important; 
-        height: 330px!important;
+        /*height: 330px!important;*/
         padding: 50px;
         font-family: 'Lato', sans-serif;
         font-weight: 400;
@@ -71,11 +71,11 @@
       .info_o_prowadzacym_i_czasie
       {
         float: left;
-        font-size: 15px;
+        font-size: 16px;
       }
       .info_o_prowadzacym_i_czasie img
       {
-        width: 30px;
+        width: 25px;
       }
 
       .tytul_mocnego_kursu
