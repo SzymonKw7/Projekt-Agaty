@@ -234,10 +234,6 @@
           left:50%;
           transform: translate(-50%, 0%);
         }
-        .tytul_mocnego_kursu 
-        {
-          margin-top: 100px;
-        }
         .mocne_slowa_pod_tytulem
         {
           margin-right: 200px;
@@ -307,10 +303,23 @@
 
   @media (max-width: 900px) 
   {
+    .info_o_prowadzacym_i_czasie
+    {
+      width: 80%;
+    }
+    .tytul_mocnego_kursu
+    {
+        margin-top:20px;
+    }
     .mocne_slowa_pod_tytulem
     {
-      margin-left: 100px;
-      margin-right: 100px;  
+      margin-left: 50px;
+      margin-right: 50px;  
+    }
+    .zamow_produkt_button
+    {
+      margin-top:0px;
+      margin-bottom: 10px;
     }
     .zdjecie_do_kursu
     {
