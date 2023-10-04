@@ -37,12 +37,14 @@
         border-radius: 3px;
         font-weight: 600;
         font-size: 16px;
-        transition: 0.3s
+        transition: 0.3s;
+        margin-top: 33px;
       }
       .zamow_produkt_button:hover
       {
         background-color: rgba(156,112,235,255);
         color: rgba(245,245,245,255);
+
       }
       .zamow_produkt_button:active
       {
@@ -79,13 +81,17 @@
 
       .tytul_mocnego_kursu
       {
-          font-size: 20px;
+          font-size: 27px;
           margin-top: 10px;
+          margin-bottom: 4px;
+          font-family: century gothic;
+          font-weight: 600;
       }
       .mocne_slowa_pod_tytulem
       {
         font-size: 22px;
         margin-right: 20%;
+        font-family: calisto mt;
       }
       .zdjecie_do_kursu
       {
@@ -95,11 +101,6 @@
         filter: drop-shadow(rgb(176, 132, 255) 0rem 0rem 1rem);
         border-radius: 15px;
         transition: 0.4s;
-      }
-
-      .zdjecie_do_kursu:hover
-      {
-        
       }
 
       /*Tabela korzyści*/
