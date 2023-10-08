@@ -1,0 +1,44 @@
+- a możemy zorbic tak że pod mobile i desktop wyświetla się inna fota?
+
+- https://studio4mc.pl/ 
+Ciekawy pomysł na przechodzenie zdjęcia wraz z textem
+
+- gdy button się kliknie to po za przeniesieniem na suby tło tamego elementu miga
+
+
+
+
+
+!!!!-baza danych!!!!
+Polecjakda od Damina MongoDB
+
+-margin do poprawy na telefonach
+
+-automatyczne zmienianie plomieni gdy napiszesz poziom
+
+-zdjecia na telefony inne!!!
+
+Uwagi Damina Front
+TO dla produktu
+- Zmniejszył letter spacing w treści coś o koło pixel 
+
+- scale do buttona na stronce
+
+-border radius zdjecia na 20px (MOŻE NAJLEPIEJ ZMIENIC RAMKE DO TYCH ZDJĘĆ)
+
+- wyrownanie ikonek do tekstu
+
+-do kolumn użyć grida
+grid-template-columns: repeat( auto-fit, minmax(250px, 1fr) );
+
+zmiana img shadowa na
+- box-shadow: 0 0 45px rgb(176, 132, 255), 0 0 5px 2px rgb(0 0 0);
+
+
+ciekawostka o dziku który się ubiera dla Damiana
+
+//strona glowna
+
+wyrownac baner do menu gornego
+
+box-shodow na banerek
